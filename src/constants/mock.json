@@ -1,0 +1,72 @@
+[
+  {
+    "region": "DKI Jakarta",
+    "year": 2023,
+    "sector": "Education",
+    "planned_budget": 125000000000,
+    "actual_spending": 110000000000
+  },
+  {
+    "region": "DKI Jakarta",
+    "year": 2023,
+    "sector": "Healthcare",
+    "planned_budget": 80000000000,
+    "actual_spending": 75000000000
+  },
+  {
+    "region": "DKI Jakarta",
+    "year": 2022,
+    "sector": "Education",
+    "planned_budget": 100000000000,
+    "actual_spending": 97000000000
+  },
+  {
+    "region": "West Java",
+    "year": 2023,
+    "sector": "Infrastructure",
+    "planned_budget": 150000000000,
+    "actual_spending": 140000000000
+  },
+  {
+    "region": "West Java",
+    "year": 2023,
+    "sector": "Healthcare",
+    "planned_budget": 60000000000,
+    "actual_spending": 58000000000
+  },
+  {
+    "region": "Central Java",
+    "year": 2023,
+    "sector": "Education",
+    "planned_budget": 90000000000,
+    "actual_spending": 85000000000
+  },
+  {
+    "region": "Central Java",
+    "year": 2023,
+    "sector": "Infrastructure",
+    "planned_budget": 120000000000,
+    "actual_spending": 115000000000
+  },
+  {
+    "region": "East Java",
+    "year": 2023,
+    "sector": "Healthcare",
+    "planned_budget": 70000000000,
+    "actual_spending": 68000000000
+  },
+  {
+    "region": "East Java",
+    "year": 2022,
+    "sector": "Education",
+    "planned_budget": 95000000000,
+    "actual_spending": 92000000000
+  },
+  {
+    "region": "Bali",
+    "year": 2023,
+    "sector": "Tourism",
+    "planned_budget": 50000000000,
+    "actual_spending": 48000000000
+  }
+]
